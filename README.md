@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aayush.</h1>
-<h3 align="center">A computer science student who is passionate about tech.</h3>
+<h3 align="center">A computer science student motivated to make a change and excited by technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaayyuusshh&label=Profile%20views&color=0e75b6&style=flat" alt="aaayyuusshh" /> </p>
 

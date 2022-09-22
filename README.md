@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Aayush.</h1>
-<h3 align="center">A computer science student motivated to make a change and excited by technology.</h3>
+<h1 align="center">Hey 👋🏽, I'm Aayush.</h1>
+<h3 align="center">A Computer Science student motivated to make a change and excited by technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaayyuusshh&label=Profile%20views&color=0e75b6&style=flat" alt="aaayyuusshh" /> </p>
 
-- 🌱 I’m currently learning **Web Dev (React.js/Node.js), MySQL & Computer Networking in C/C++.**
+- 🌱 I’m currently working on mastering Web Development with **Javascript**, OOP concepts with **Java**, & **JUnit** testing.
 - 📫 How to reach me **daayush100@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

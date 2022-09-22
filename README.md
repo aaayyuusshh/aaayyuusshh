@@ -5,6 +5,7 @@
 
 - 🌱 I’m currently working on mastering Web Development with **Javascript**, OOP concepts with **Java**, & **JUnit** testing.
 - 📫 How to reach me **daayush100@gmail.com**
+- 👇🏽 Feel free to view my pinned projects down below.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

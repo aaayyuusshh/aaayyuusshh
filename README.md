@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaayyuusshh&label=Profile%20views&color=0e75b6&style=flat" alt="aaayyuusshh" /> </p>
 
-- 🌱 I’m currently working on mastering Web Development with **Javascript**, OOP concepts with **Java**, & **JUnit** testing.
+- 🌱 I’m currently working on mastering the fundamentals of the web, specifically the back end.
 - 📫 How to reach me **daayush100@gmail.com**
 - 👇🏽 Feel free to view my pinned projects down below.
 

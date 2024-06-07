@@ -3,7 +3,6 @@
 
 - I’m currently working on strengthening my software engineering fundamentals and am actively seeking fall 2024 internships.
 - Please feel free to reach me at **daayush100@gmail.com**
-- My pinned projects down below.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

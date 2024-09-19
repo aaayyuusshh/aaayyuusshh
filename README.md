@@ -1,7 +1,7 @@
 <h1 align="center">Hey everyone 👋🏽, I'm Aayush.</h1>
 <h3 align="center">A Computer Science student motivated to learn and make an impact in the field.</h3>
 
-- I’m currently working on strengthening my software engineering fundamentals and am actively seeking fall 2024 internships.
+- I’m currently working on strengthening my software engineering fundamentals and am actively seeking a Software related internship.
 - Please feel free to reach me at **daayush100@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

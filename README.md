@@ -1,10 +1,14 @@
-<h1 align="center">Hey everyone 👋🏽, I'm Aayush.</h1>
-<h3 align="center">A Computer Science student motivated to learn and make an impact in the field.</h3>
+<h1 align="center">Heyoo, I'm Aayush 🚶🏽‍♂️👋🏽</h1>
+<h3 align="center">A CS graduate who LOVES anything tech and is motivated to continually learn and make an impact</h3>
 
-- I’m currently working on strengthening my software engineering fundamentals and am actively seeking a Software related internship.
-- Please feel free to reach me at **daayush100@gmail.com**
+- I’m currently working on _yourspotify_, a Java/TypeScript app that displays your top artists or tracks of the past month, 6 months, or all time in Spotify 💚
+- I'm actively looking for exciting new grad/junior software related roles 👀
+- Learn more about me on my [website](https://aayushdahal.netlify.app) ☺︎
+- Please feel free to reach me at **aayushd4h4l@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+ 
+
+
 <p align="left">
 <a href="https://linkedin.com/in/aayush-dahal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aayush-dahal" height="30" width="40" /></a>
 </p>

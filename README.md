@@ -1,7 +1,8 @@
 <h1 align="center">Heyoo, I'm Aayush 🚶🏽‍♂️👋🏽</h1>
 <h3 align="center">A CS graduate who LOVES anything tech and is motivated to continually learn and make an impact</h3>
 
-- I’m currently working on _yourspotify_, a Java/TypeScript app that displays your top artists or tracks of the past month, 6 months, or all time in Spotify 💚
+- Currently wrapping up [_SpotiRecap_](https://spoti-recap.vercel.app/), a fullstack Java/TypeScript app that displays your top tracks, artists, or generes of the past month, 6 months, or all time in Spotify in an aesthetic card optimized for sharing 💚
+- Next step: Dabble in AI and Machine Learning by developing an AI Git Commit Message Generator or something like that? 🤖
 - I'm actively looking for exciting new grad/junior software related roles 👀
 - Learn more about me on my [website](https://aayushdahal.netlify.app) ☺︎
 - Please feel free to reach me at **aayushd4h4l@gmail.com**
